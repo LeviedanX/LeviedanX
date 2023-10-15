@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
 }
+
 class MyApp extends StatelessWidget{
   const MyApp({super.key});
-
   @override
   Widget build(BuildContext context){
     return MaterialApp(
@@ -21,4 +21,21 @@ class MyApp extends StatelessWidget{
    ),
   );
  }
+}
+
+class PositionedAnimation extends StatefulWidget {
+    const PositionedAnimation({required Key key}) : super(key: key);
+    @override
+    _PositionedAnimationState createState()
+    => _PositionedAnimationState();
+}
+
+class _PositionedAnimationState
+    extends State<PositionedAnimation> {
+    @override
+    Widget build(BuildContext context) {
+        return const Stack(
+            children: <Widget>[],
+        );
+    }
 }
