@@ -8,7 +8,7 @@
 
 > Engineering systems at the intersection of full-stack development, algorithmic automation, and high-performance architecture.
 
-I am an Informatics Engineering Student focused on building scalable full-stack applications and intelligent, autonomous systems. My engineering philosophy prioritizes performance, structural integrity, and logic-driven solutions over superficial development. I bridge the gap between complex backend architectures and highly interactive user interfaces.
+I am an Informatics Engineering student focused on building scalable full-stack applications and intelligent, autonomous systems. My engineering philosophy prioritizes performance, structural integrity, and logic-driven solutions over superficial development. I bridge the gap between complex backend architectures and highly interactive user interfaces.
 
 ### ⚙️ Core Engineering Focus
 
@@ -29,6 +29,8 @@ I am an Informatics Engineering Student focused on building scalable full-stack 
 * **AI & Data Science:** Deep Learning (CNN Frameworks), Autonomous Agent Logic, Data Integration.
 
 ---
+
+<h1 id="indonesia">Bagus Achmad Syahputra | Full-Stack Engineer</h1>
 
 > Merancang sistem pada titik temu antara pengembangan full-stack, otomatisasi algoritmik, dan arsitektur berkinerja tinggi.
 
