@@ -30,8 +30,6 @@ I am an Informatics Engineering Student focused on building scalable full-stack 
 
 ---
 
-<h1 id="indonesia">Bagus Achmad Syahputra | Full-Stack Engineer</h1>
-
 > Merancang sistem pada titik temu antara pengembangan full-stack, otomatisasi algoritmik, dan arsitektur berkinerja tinggi.
 
 Saya adalah mahasiswa Teknik Informatika yang berfokus pada pembangunan aplikasi *full-stack* yang skalabel dan sistem otonom yang cerdas. Filosofi rekayasa perangkat lunak saya memprioritaskan performa, integritas struktural, dan solusi berbasis logika di atas pengembangan superfisial. Saya menjembatani arsitektur *backend* yang kompleks dengan antarmuka pengguna yang sangat interaktif.
