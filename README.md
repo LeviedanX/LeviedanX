@@ -30,6 +30,12 @@ I am an Informatics Engineering student focused on building scalable full-stack 
 
 ---
 
+<div align="right">
+  <a href="#english">English</a> • <a href="#indonesia">Indonesia</a>
+</div>
+
+---
+
 <h1 id="indonesia">Bagus Achmad Syahputra | Full-Stack Engineer</h1>
 
 > Merancang sistem pada titik temu antara pengembangan full-stack, otomatisasi algoritmik, dan arsitektur berkinerja tinggi.
